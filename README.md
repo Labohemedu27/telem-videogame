@@ -3,6 +3,8 @@
 
 **Note of intent**
 
+:space_invader:
+
 1- Le problème
  
  <p align="justify"> La transformation digitale, processus intégrant les technologies numériques dans l’ensemble de nos activités, bouleverse notre société.  Elle va engloutir de nombreux emplois (manutentionnaires, secrétaires, employés de comptabilité, employés de la banque et des assurances, caissiers, conducteurs de véhicules, etc.) notamment en raison de l’automatisation engendrée par l’Intelligence Artificielle (AI). Cependant, elle peut aussi être vue comme une opportunité au travers de l’émergence de nouvelles professions. L’ajustement entre les compétences des actifs et les besoins d’une économie en mutation représente un enjeu majeur d’après le rapport du Conseil d'orientation pour l'emploi. Plus particulièrement, il est important de former les nouvelles générations à ces dernières afin d’éviter d’aggraver le taux de chômage dans les années à venir.      
