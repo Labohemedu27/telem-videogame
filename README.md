@@ -2,7 +2,9 @@
 
 <h2 p align='center'> Note of intent </h2 p align='center'>
 
-:space_invader:
+Pour un teaser de Telem, cliquez <a href='https://www.powtoon.com/c/fB33ek9QdXw/2/m'>ici</a>
+
+
 
 <h3>I - Le problème</h3>
  
