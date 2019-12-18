@@ -1,7 +1,7 @@
-# Telem - Apprend les métiers du numérique
+<p align='center'> <b>Telem - Apprend les métiers du numérique</b>
 
 
-**Note of intent**
+<p align='center'> <b>Note of intent</b>
 
 :space_invader:
 
@@ -29,7 +29,7 @@ Pour proposer une solution à cet enjeu dans la région Haut-de-France, nous sou
    
    <p align="justify">
    Compte tenu de son importante croissance, le milieu de l’intelligence artificielle est le sujet de beaucoup de formations en ligne qui se rapprochent de notre projet. Tokamaq est un jeu vidéo destiné à former sur les métiers du digital. Cet outil aide à identifier et différencier environ trente métiers du secteur numérique et permet une introduction à la gestion de projets de projets digitaux, mais s’adresse cependant plutôt aux entreprises. La mission du programme CheckIO se rapproche de la notre. À destination des professeurs, qui l’introduisent dans leurs classes, ce jeu permet d’apprendre à coder à travers différents niveaux, notamment avec les langages Python et JavaScript. CodeCombat est une autre plateforme à destination des étudiants, mais qui se concentre uniquement sur la programmation. Le site gouvernmental Pix.fr propose une plateforme qui propose une simple évaluation des outils de technologie, mais cette plateforme n’est ni ludique ni adapté à notre époque. Beaucoup de jeux s'adressent notamment à des personnes ayant déjà beaucoup de connaissances, tels que les jeux Codingame.com et Screeps. Nous trouvons donc que si le jeu vidéo est déjà bien utilisé comme outil d’apprentissage, aucun jeu ne lie <b>l’apprentissage de compétences</b> comme la programmation avec une <b>dimension d’orientation</b>. Allier les deux permettrait aux joueurs de se découvrir un intérêt pour le numérique, de développer des compétences utiles et d’être directement présenté à des idées de métiers auxquels ils n’auraient peut-être pas pensé.      
-   L’utilisation d’un jeu pour former les jeunes nous vient de l’importance croissante de la ludification, c’est-à dire l’utilisation des mécanismes du jeu dans différents domaines. Prenant en compte que notre cible est les jeunes en décrochage scolaire, l’utilisation d’un jeu vidéo interactif nous semble appropriée. 
+   L’utilisation d’un jeu pour former les jeunes nous vient de l’importance croissante de la ludification, c’est-à dire l’utilisation des mécanismes du jeu dans différents domaines. Prenant en compte que notre cible est les jeunes en décrochage scolaire, l’utilisation d’un jeu vidéo interactif nous semble appropriée.
 
 *III- Les impacts positifs attendus*
    
