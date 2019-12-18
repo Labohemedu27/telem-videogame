@@ -1,4 +1,4 @@
-<h1 align='center'> Telem - Apprend les métiers du numérique </h1 align='center'>
+<h1 align='center'> Telem - Un jeu pour décoder les métiers du numérique </h1 align='center'>
 
 <h2 p align='center'> Note of intent </h2 p align='center'>
 
