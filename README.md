@@ -2,9 +2,9 @@
 
 <h2 p align='center'> Note of intent </h2 p align='center'>
 
-Pour un teaser de Telem, cliquez <a href='https://www.powtoon.com/c/fB33ek9QdXw/2/m'>ici</a>
+<h4 align='center'> Pour un teaser de Telem, cliquez <a href='https://www.powtoon.com/c/fB33ek9QdXw/2/m'>ici</a> </h4 align='center'>
 
-![teaser telem](https://i.paste.pics/ff16ac1c5b9b611eeb4c12e4b175d7d5.png)
+ <p align='center'> <img src='https://i.paste.pics/ff16ac1c5b9b611eeb4c12e4b175d7d5.png' align='center'> 
 
 <h3>I - Le problème</h3>
  
